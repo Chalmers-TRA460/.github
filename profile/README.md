@@ -4,7 +4,7 @@
 
 ---
 
-Welcome to the official GitHub Organization for TRA460. Student groups maintain their repositories here, containing Product Requirements Documents (PRDs) and functional prototypes to build a living library of clinical solutions over time.
+Welcome to the official GitHub Organization for TRA460. Interdisciplinary student teams — including Chalmers engineering students (e.g., Global Systems, Software Engineering, Technical Design), medical students, and practicing clinicians — maintain their repositories here. This will over time build a living library of digital health solutions, solving *real* healthcare challenges. The course is open to all Chalmers programs and welcomes healthcare professionals across disciplines.
 
 ## About the Course
 
@@ -16,7 +16,7 @@ Following clinical synthesis, teams iteratively move toward a working MVP. For t
 
 All group repositories follow this format:
 
-`[Year]-G[#]-[ProjectName]` (e.g., `2026-G4-OPAT-Home`)
+`[Year]-G[#]-[ProjectName]` (e.g., `2025-G4-OPAT-Home`)
 
 ## License
 
