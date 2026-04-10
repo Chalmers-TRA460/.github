@@ -1,5 +1,8 @@
 # TRA460 — Digital Health Implementation
-Welcome to the official GitHub Organization for TRA460. Interdisciplinary student teams — including Chalmers engineering students (e.g., Global Systems, Software Engineering, Technical Design), medical students, and practicing clinicians — maintain their repositories here. This will over time build a living library of digital health solutions, solving *real* healthcare challenges. The course is open to all Chalmers programs and welcomes healthcare professionals across disciplines.
+*A Tracks course at Chalmers University of Technology, delivered in collaboration with Stanford Biodesign and Sahlgrenska University Hospital.*
+
+---
+Welcome to the official GitHub Organization for TRA460 Digital Health Implementation. Interdisciplinary student teams — including Chalmers engineering students (e.g., Biomedical Engineering, Global Systems, Software Engineering, Technical Design), medical students, and practicing clinicians — maintain their repositories here. This will over time build a living library of digital health solutions, solving *real* healthcare challenges. The course is open to all Chalmers programs and welcomes healthcare professionals across disciplines.
 
 ## About the Course
 
