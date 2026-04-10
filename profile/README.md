@@ -10,6 +10,14 @@ TRA460 bridges clinical insights with technical execution. Teams are paired with
 
 Following clinical synthesis, teams iteratively move toward a working MVP. For the implementation phase, students are encouraged to utilize the [SpeziVibe](https://github.com/StanfordSpezi/SpeziVibe) framework and the broader [Spezi](https://github.com/StanfordSpezi) ecosystem developed by the Stanford Biodesign Digital Health team.
 
+## Course Team
+
+* **Stefan Candefjord** — Examiner & Course Lead | PhD, Associate Professor, Dept. of Electrical Engineering, Chalmers University of Technology (stefan.candefjord@chalmers.se)
+* **Peter Kelly** — Course Co-Founder & Clinical Lead | MD, Digitalization Strategist, Sahlgrenska University Hospital (peter.kelly@vgregion.se)
+* **Torbjörn “Toby” Lundh** — Course Co-Founder | PhD, Professor, Dept. of Mathematical Sciences, Chalmers University of Technology & University of Gothenburg (torbjrn@chalmers.se)
+* **Harald F. Franck** — Teaching Assistant (TA) | M.Sc. Student in Global Systems Engineering, Chalmers University of Technology & Software Developer, Thalamind (harald.franck@globalasystem.se)
+* **Fanny Apelgren** — Teaching Assistant (TA) | Doctoral Student, Signal Processing & Biomedical Engineering, Dept. of Electrical Engineering, Chalmers University of Technology (fanny.apelgren@chalmers.se)
+
 ## Repository Naming Convention
 
 All group repositories follow this format:
