@@ -26,5 +26,4 @@ All group repositories follow this format:
 
 ## License
 
-Unless otherwise specified, student projects in this organization are released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Students retain copyright to their own contributions. Individual project teams are free to choose a different license — contact your TA to arrange this.
-
+Students retain copyright to their own contributions. By default, project code is made available under the [MIT License](../LICENSE). Individual teams may choose adifferent license. Contact your TA to arrange this.
