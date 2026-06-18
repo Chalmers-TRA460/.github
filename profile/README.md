@@ -26,4 +26,4 @@ All group repositories follow this format:
 
 ## License
 
-Students retain copyright to their own contributions. By default, project code is made available under the [MIT License](../LICENSE). Individual teams may choose adifferent license. Contact your TA to arrange this.
+Students retain copyright to their own contributions. By default, project code is made available under the [MIT License](../LICENSE). Individual teams may choose a different license. Contact your TA to arrange this.
