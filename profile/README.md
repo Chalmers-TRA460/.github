@@ -26,4 +26,4 @@ All group repositories follow this format:
 
 ## License
 
-Student projects in this organization are released under the [MIT License](LICENSE) unless otherwise specified.
+Student projects in this organization are released under the [MIT License](../LICENSE) unless otherwise specified.
