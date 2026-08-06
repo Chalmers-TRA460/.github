@@ -26,4 +26,13 @@ All group repositories follow this format:
 
 ## License
 
-Students retain copyright to their own contributions. By default, project code is made available under the [MIT License](../LICENSE). Individual teams may choose a different license. Contact your TA to arrange this.
+Students retain copyright to their own contributions. By default, project code is made available under the [MIT License](../LICENSE). Individual teams may choose a different license. Contact a TA to arrange this.
+
+## Privacy & Data
+
+Student projects are published here with consent, as an open archive to
+inspire and inform future cohorts. Projects must contain only synthetic or
+anonymized data. Never real patient data, personal data, or clinical records.
+
+Students own their contributions and may request removal at any time by
+contacting the course team. Processing follows the EU GDPR.
